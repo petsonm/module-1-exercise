@@ -1,0 +1,22 @@
+{
+  "name": "module-1-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petsonm/module-1-exercise.git"
+  },
+  "author": "petsonm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petsonm/module-1-exercise/issues"
+  },
+  "homepage": "https://github.com/petsonm/module-1-exercise#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
