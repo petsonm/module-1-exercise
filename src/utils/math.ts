@@ -3,4 +3,4 @@ export function calculateSquare(x: number): number {
     return x*x;
 }
 //Calculate the area of a triangle and export the arrow function
-export const calculateTriangleArea = (base: number, height: number): number => base * height / 2;
+export const calculateTriangleArea = (base: number, height: number): number => (base * height) / 2;
